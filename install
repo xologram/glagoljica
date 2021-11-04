@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd "$( dirname "${BASH_SOURCE[0]}" )"
+sudo touch ~/Library/Keyboard\ Layouts
+sudo cp Glagoljica.{icns,keylayout} ~/Library/Keyboard\ Layouts
+echo "Glagoljicna tastatura instalirana. Dodajte je na 'Input Sources'"
+echo "Ⰳⰾⰰⰳⱁⰾⰼⰻⱍⱀⰰ ⱅⰰⱄⱅⰰⱅⱆⱃⰰ ⰻⱀⱄⱅⰰⰾⰻⱃⰰⱀⰰ."
+open /System/Library/PreferencePanes/Keyboard.prefPane
+
