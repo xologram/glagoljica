@@ -39,7 +39,7 @@
             <key code="3" output="ⱇ"/>
             <key code="4" output="ⱈ"/>
             <key code="5" output="ⰳ"/>
-            <key code="6" output="ⱑ"/>
+            <key code="6" output="ⰸ"/>
             <key code="7" output="ⱓ"/>
             <key code="8" output="ⱌ"/>
             <key code="9" output="ⰲ"/>
@@ -49,7 +49,7 @@
             <key code="13" output="ⱗ"/>
             <key code="14" output="ⰵ"/>
             <key code="15" output="ⱃ"/>
-            <key code="16" output="ⰸ"/>
+            <key code="16" output="ⱑ "/>
             <key code="17" output="ⱅ"/>
             <key code="18" output="Ⰰ"/>
             <key code="19" output="Ⰱ"/>
@@ -145,7 +145,7 @@
             <key code="3" output="Ⱇ"/>
             <key code="4" output="Ⱈ"/>
             <key code="5" output="Ⰳ"/>
-            <key code="6" output="Ⱑ"/>
+            <key code="6" output="Ⰸ"/>
             <key code="7" output="Ⱓ "/>
             <key code="8" output="Ⱌ"/>
             <key code="9" output="Ⰲ"/>
@@ -155,7 +155,7 @@
             <key code="13" output="Ⱗ"/>
             <key code="14" output="Ⰵ"/>
             <key code="15" output="Ⱃ"/>
-            <key code="16" output="Ⰸ"/>
+            <key code="16" output="Ⱑ"/>
             <key code="17" output="Ⱅ"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
@@ -284,9 +284,9 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output=""/>
             <key code="38" output=""/>
-            <key code="39" output=""/>
+            <key code="39" output="&#x0022;"/>
             <key code="40" output=""/>
-            <key code="41" output=""/>
+            <key code="41" output=":"/>
             <key code="42" output=""/>
             <key code="43" output=""/>
             <key code="44" output=""/>
@@ -357,7 +357,7 @@
             <key code="3" output="Ⱇ"/>
             <key code="4" output="Ⱈ"/>
             <key code="5" output="Ⰳ"/>
-            <key code="6" output="Ⱑ"/>
+            <key code="6" output="Ⰸ"/>
             <key code="7" output="Ⱓ "/>
             <key code="8" output="Ⱌ"/>
             <key code="9" output="Ⰲ"/>
@@ -367,7 +367,7 @@
             <key code="13" output="Ⱗ"/>
             <key code="14" output="Ⰵ"/>
             <key code="15" output="Ⱃ"/>
-            <key code="16" output="Ⰸ"/>
+            <key code="16" output="Ⱑ "/>
             <key code="17" output="Ⱅ"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
